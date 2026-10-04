@@ -1,0 +1,60 @@
+SYNAPSE-AI DELIVERY OPERATIONS POLICY
+
+1. Delivery Performance
+
+Orders should normally be delivered within the committed delivery window.
+
+A delivery is considered late when the actual delivery time exceeds the committed delivery time.
+
+2. Late Order Escalation
+
+If the late-order rate exceeds 5% of total orders for a reporting period, the Operations Manager must investigate the underlying cause.
+
+If the late-order rate exceeds 10%, the issue must be escalated to the Regional Operations Head.
+
+3. Operational Investigation
+
+When late deliveries increase significantly, the investigation should consider:
+
+- Delivery capacity
+- Driver availability
+- Route planning
+- Geographic demand concentration
+- Order volume
+- Weather or external disruptions
+- Warehouse or fulfillment delays
+
+4. Corrective Actions
+
+Possible corrective actions include:
+
+- Reallocating delivery capacity
+- Adjusting delivery schedules
+- Reviewing high-delay delivery zones
+- Increasing driver capacity during peak periods
+- Reviewing warehouse processing time
+- Improving route planning
+
+5. Management Review
+
+Management should review delivery performance together with:
+
+- Revenue trends
+- Order volume
+- Operating costs
+- Customer activity
+
+A significant deterioration across multiple indicators should trigger a broader operational review.
+
+6. Documentation
+
+All major operational issues and corrective actions should be documented.
+
+The responsible manager should record:
+
+- Problem identified
+- Root cause
+- Corrective action
+- Responsible team
+- Expected resolution date
+- Follow-up status
